@@ -21,9 +21,9 @@ line contains H: the height of the parallelogram.
 
 Constraints
 
-.- 100≤B ≤ 100
+.100≤B ≤ 100
 
-. -100≤ H ≤ 100
+-100≤ H ≤ 100
 
 Output Format
 
@@ -66,5 +66,6 @@ OUTPUT 2
 2
 3
 6
+
 
  */
