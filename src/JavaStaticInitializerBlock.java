@@ -20,9 +20,7 @@ There are two lines of input. The first line contains B: the breadth of the para
 line contains H: the height of the parallelogram.
 
 Constraints
-
-.100≤B ≤ 100
-
+-100≤B ≤ 100
 -100≤ H ≤ 100
 
 Output Format
