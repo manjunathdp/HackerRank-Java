@@ -12,7 +12,7 @@ public class JavaStringIntroduction {
 
         System.out.println(sum);
 
-        if(A.charAt(0)>B.charAt(0))
+        if(A.compareTo(B) > 0)
             System.out.println("Yes");
         else
             System.out.println("No");
